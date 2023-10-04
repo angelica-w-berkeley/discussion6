@@ -29,6 +29,9 @@ a:visited{
 
 nav a.current{
     /* Set text decoration, transformation, and underline properties */
+    color: plum;
+    text-decoration: underline wavy;
+    text-underline-offset: 5px;
 }
 
 
